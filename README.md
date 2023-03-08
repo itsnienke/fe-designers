@@ -23,19 +23,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Opdracht 1 plan
 
 <details open>
-  <summary>uitwerken na schetsen idee (voor week 2)</summary>
+<summary>uitwerken na schetsen idee (voor week 2)</summary>
 
 
   ### Je storyboard:
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="storyboard voor opdracht 1">
+  <img src="" width="375px" alt="storyboard voor opdracht 1">
 
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Animatie in css
+  - Netter in css werken
+  - Beter weten wat ik aan het doen ben
  
 </details>
 
@@ -48,20 +47,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitomst opdracht 1">
+  
+ ### Je uitkomst - karakteristiek screenshot(s):
+ <img src="/img/google.png" alt="google logo">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatje(s)
+  het gebruiken van een before en after en hoe je dit bewegend maakt
 
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
+  
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatje(s)
+  Het helemaal rond gaan van de 'ogen' 
 
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
 </details>
+
+ 
 
 
 
